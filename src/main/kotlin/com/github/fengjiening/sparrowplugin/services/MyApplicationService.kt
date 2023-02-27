@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fengjiening.sparrowplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fengjiening.sparrowplugin.MyBundle
 
 class MyApplicationService {
 
